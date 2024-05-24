@@ -16,10 +16,10 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий с проектом:
+1. Загрузите репозиторий с проектом:
 
 ```
-git clone https://github.com/DxrkFuture/React3023.git
+https://github.com/Eduard-Eduardovich-Axa/questions2.git
 ```
 
 2. Перейдите в директорию проекта:
